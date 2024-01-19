@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(208, 208, 208);
+    color:black;
+}
+
+.styling_header{
+    width: 80%;
+ font-size: 22px;
+}
+
+.font_styling,#object_name,#object_accuracy{
+    color: black;
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+}
+
+#your_webcam{
+    width: 350px;
+    height: 300px;
+}
+
+#your_picture{
+    width: 350px;
+    height: 300px;
+    margin-top: 0px;
+}
